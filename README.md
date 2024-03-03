@@ -12,7 +12,7 @@ My 2024 Goals
 - 30 new receipt
 - 1/300 days follow schedule
 - Read 0/3 technical book
-- Do 1/300 Leetcode problem
+- Do 0/300 Leetcode problem
 - Azure Certificate AZ-900, AZ-204
 - Get one >= 1k5$ offer
 - Do at least 0/3 side projects (chat bot, fe app for this 2025 goal, bookmark, ML with python, some NodeJs, Remix maybe, anything actually) (need a list of projects)
