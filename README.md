@@ -7,7 +7,7 @@ My 2024 Goals
 - 0/20 fluff fluff cute for mah luv
 - 6.5 speaking and writing ieslt
 - 0/300 days sleep before 10
-- 2/300 days wake up before 7
+- 3/300 days wake up before 7
 - 0/300 days work out
 - 0/30 new receipt
 - 2/300 days follow schedule
