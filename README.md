@@ -11,7 +11,7 @@ My 2024 Goals
 - 3/300 days wake up before 7
 - 0/300 days work out
 - 0/30 new receipt
-- 2/300 days follow schedule
+- 3/300 days follow schedule
 - 0/3 technical book
 - 0/300 Leetcode problem
 - 0/2 Azure Certificate AZ-900, AZ-204
@@ -40,6 +40,9 @@ Technicals blogs
 - https://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store
 - https://blog.heroku.com/building-a-monorepo-with-yarn-2
 - cookie vs session
+
+leetcode
+- https://github.com/krishnadey30/LeetCode-Questions-CompanyWise
 
 github learn
 - https://github.com/ByteByteGoHq/system-design-101
