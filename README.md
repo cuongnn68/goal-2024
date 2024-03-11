@@ -1,21 +1,22 @@
 # goal-2024
 My 2024 Goals
+#### To Mar 2025
 
-- Save 28/200M vnd (until Mar 2025, end of finance years at CMC)
-- Travel 0/3 times with mah luv
+- 28/200M vnd saving 
+- 0/3 times traveling with mah luv
 - 0/24 pics of mah luv
 - 0/20 fluff fluff cute for mah luv
-- 6.5 speaking and writing ieslt
+- 0/6.5 speaking and writing ieslt
 - 0/300 days sleep before 10
 - 3/300 days wake up before 7
 - 0/300 days work out
 - 0/30 new receipt
 - 2/300 days follow schedule
-- Read 0/3 technical book
-- Do 0/300 Leetcode problem
-- Azure Certificate AZ-900, AZ-204
-- Get one >= 1k5$ offer
-- Do at least 0/3 side projects (chat bot, fe app for this 2025 goal, bookmark, ML with python, some NodeJs, Remix maybe, anything actually) (need a list of projects)
+- 0/3 technical book
+- 0/300 Leetcode problem
+- 0/2 Azure Certificate AZ-900, AZ-204
+- 1k/1.5k net offer
+- 0/3 side projects (finance chat bot, fe app for this 2025 goal, bookmark, ML with python)
 
 2024/03/01 => 2025/03/01
 
