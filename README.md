@@ -13,7 +13,7 @@ My 2024 Goals
 - 0/30 new receipt
 - 6/300 days follow schedule
 - 0/3 technical book
-- 0/100 Leetcode problem
+- 3/100 Leetcode problem
 - 0/2 Azure Certificate AZ-900, AZ-204
 - 1k/1.5k net offer
 - 0/3 side projects (finance chat bot, fe app for this 2025 goal, bookmark, ML with python)
