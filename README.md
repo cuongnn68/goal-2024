@@ -11,7 +11,7 @@ My 2024 Goals
 - 5/200 days wake up before 7
 - 0/200 days work out
 - 0/30 new receipt
-- 11/200 days follow schedule
+- 12/200 days follow schedule
 - 0/3 technical book
 - 3/100 Leetcode problem
 - 0/2 Azure Certificate AZ-900, AZ-204
